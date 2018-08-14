@@ -1,5 +1,6 @@
 {
   "name": "helloreact",
+  "homepage": "https://taquiles.github.io/helloreact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
