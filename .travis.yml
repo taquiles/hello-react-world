@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - 8.10
 install:
-  - npm cache clean
+  - npm cache verify
   - npm install
 cache:
   directories:
@@ -10,3 +10,5 @@ cache:
 script:
   - npm test
   - npm run build
+deploy: 
+  - provider: s3
