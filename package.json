@@ -1,6 +1,6 @@
 {
-  "name": "helloreact",
-  "homepage": "https://taquiles.github.io/helloreact",
+  "name": "hello-react-world",
+  "homepage": "https://taquiles.github.io/hello-react-world",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
